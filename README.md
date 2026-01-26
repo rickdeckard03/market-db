@@ -21,7 +21,7 @@ This is a university-level project regarding the organization and management�
 | ----- | ----- |
 | User | Generic user of the system, distinguishable by role (orderer, technician, administrator). |
 | Category | Specific product type. |
-| Caratteristic | Category-specific property. |
+| Characteristics | Category-specific property. |
 | Purchase request | Purchase request expressed by a customer for a specific product category. |
 | Feature Value | Specific value assigned to a feature within a request. |
 | Candidate product | Prodotto concreto proposto da un tecnico come possibile soluzione a una richiesta. |
